@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+input[type="number"] {
+    font-size: 1em;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+button {
+    font-size: 1em;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#message {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.success-message {
+    color: yellow;
+}
+
+.error-message {
+    color: red;
+}
